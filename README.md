@@ -5,9 +5,8 @@
 
 I'm Craig Forshaw, passionate about cloud security, infrastructure architecture and empowering others through technology. Always learning, always sharing!
 - 💼 Senior Cloud Solutions Architect at [Atea](https://www.atea.no)
-- 🏆 Microsoft MVP Cloud Security (Defender for cloud, Azure network security, GitHub advanced security)
+- 🏆 Microsoft MVP Cloud Security (Defender for Cloud, Azure Network Security, GitHub Advanced Security)
 - 🛡️ 15+ years experience in IT infrastructure, from on-prem to enterprise cloud architecture
-- 🔒 Organiser of the Microsoft Security User Group 
 - 💬 Ask me about Azure, Microsoft Security, DevOps & Infrastructure as Code
 
 ---
@@ -16,34 +15,34 @@ I'm Craig Forshaw, passionate about cloud security, infrastructure architecture 
 
 
 <a href="https://mvp.microsoft.com/">
-	<img src="./img/mvp-badge.png" alt="Microsoft MVP" width="80"/>
+	<img src="./img/mvp-badge.png" alt="Microsoft MVP" width="150"/>
 </a>
 <a href="https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/">
-	<img src="https://user-images.githubusercontent.com/26624010/180080184-13ede935-05dd-400a-87f7-cedbbd6c6796.png" alt="Cloud Solutions Architect Expert" width="80"/>
+	<img src="./img/azure-solutions-architect-expert.png" alt="Cloud Solutions Architect Expert" width="150"/>
 </a>
 <a href="https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/">
-	<img src="./img/ms_cybersecurity_architect.png" alt="Cybersecurity Architect" width="80"/>
+	<img src="./img/ms_cybersecurity_architect.png" alt="Cybersecurity Architect" width="150"/>
 </a>
 <a href="https://learn.microsoft.com/en-us/certifications/identity-and-access-administrator/">
-	<img src="https://user-images.githubusercontent.com/26624010/137772921-233e49a5-121a-4f3b-9a77-af11c49452a6.png" alt="Identity and Access Management" width="80"/>
+	<img src="./img/identity-and-access-administrator-associate.png" alt="Identity and Access Management" width="150"/>
 </a>
 
 ---
 
 ### User Group Community
 
-Microsoft Security User Group
+#### Microsoft Security User Group Organizer
 
-[<img src="./img/msug.jpg" alt="LinkedIn" width="150"/>](https://www.meetup.com/Microsoft-Security-User-Group/)
+[<img src="./img/msug.jpg" alt="LinkedIn" width="250"/>](https://www.meetup.com/Microsoft-Security-User-Group/)
 
 ---
 
 ### Get In Touch
 
 
-[<img src="./img/linkedin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/craig4shaw)
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50"/>](https://github.com/craig4shaw83)
-[<img src="./img/sessionize-avatar.png" alt="Sessionize" width="50"/>](https://sessionize.com/craig4shaw83/)
+[<img src="./img/linkedin.png" alt="LinkedIn" width="150"/>](https://www.linkedin.com/in/craig4shaw)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="150"/>](https://github.com/craig4shaw83)
+[<img src="./img/sessionize-avatar.png" alt="Sessionize" width="150"/>](https://sessionize.com/craig4shaw83/)
 
 ---
 
